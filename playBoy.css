@@ -37,7 +37,7 @@ a {
 }
 /*呈現瀏覽之後的狀況*/
 a:visited {
-	color: green;
+	color: white;
 }
 
 a:hover {

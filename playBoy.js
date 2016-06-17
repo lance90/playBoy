@@ -65,7 +65,7 @@ $(function () {
 
 	    	updateStats();   //執行顯示遊戲數畫面
 	    	styleBoy();
-			
+			//設定遊戲結束狀況
 	    	if (health <= 0 || love <= 0 || happiness <= 0) {
 	    		$('#module').show();
 	    	}	    	
